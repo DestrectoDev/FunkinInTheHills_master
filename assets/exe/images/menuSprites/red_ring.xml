@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red_ring.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 50000" x="0" y="0" width="290" height="406" frameX="-51" frameY="-2" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50001" x="0" y="0" width="290" height="406" frameX="-51" frameY="-2" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50002" x="0" y="0" width="290" height="406" frameX="-51" frameY="-2" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50003" x="380" y="0" width="395" height="407" frameX="0" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50004" x="380" y="0" width="395" height="407" frameX="0" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50005" x="380" y="0" width="395" height="407" frameX="0" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50006" x="0" y="497" width="290" height="407" frameX="-53" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50007" x="0" y="497" width="290" height="407" frameX="-53" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50008" x="0" y="497" width="290" height="407" frameX="-53" frameY="-1" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50009" x="380" y="497" width="113" height="406" frameX="-140" frameY="0" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50010" x="380" y="497" width="113" height="406" frameX="-140" frameY="0" frameWidth="395" frameHeight="408"/>
+	<SubTexture name="Symbol 50011" x="380" y="497" width="113" height="406" frameX="-140" frameY="0" frameWidth="395" frameHeight="408"/>
+</TextureAtlas>

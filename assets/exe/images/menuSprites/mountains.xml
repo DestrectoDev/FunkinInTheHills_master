@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mountains.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 40000" x="0" y="0" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40001" x="1448" y="0" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40002" x="2896" y="0" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40003" x="4344" y="0" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40004" x="5792" y="0" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40005" x="0" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40006" x="1448" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40007" x="1448" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40008" x="2896" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40009" x="4344" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40010" x="5792" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40011" x="0" y="2962" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40012" x="1448" y="2962" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40013" x="2896" y="2962" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40014" x="4344" y="2962" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40015" x="5792" y="2962" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40016" x="0" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40017" x="1448" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40018" x="2896" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40019" x="2896" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40020" x="4344" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40021" x="5792" y="4443" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40022" x="0" y="5924" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40023" x="1448" y="5924" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40024" x="2896" y="5924" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40025" x="4344" y="5924" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40026" x="1448" y="1481" width="1358" height="1391"/>
+	<SubTexture name="Símbolo 40027" x="5792" y="5924" width="1358" height="1391"/>
+</TextureAtlas>

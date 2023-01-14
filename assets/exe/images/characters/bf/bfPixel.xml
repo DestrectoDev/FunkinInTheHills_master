@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixel.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down BF sonic0000" x="102" y="161" width="43" height="49"/>
+	<SubTexture name="down BF sonic0001" x="145" y="161" width="43" height="49"/>
+	<SubTexture name="down BF sonic0002" x="188" y="161" width="43" height="49"/>
+	<SubTexture name="down BF sonic0003" x="231" y="161" width="43" height="49"/>
+	<SubTexture name="down BF sonic0004" x="274" y="198" width="43" height="49"/>
+	<SubTexture name="down BF sonic0005" x="317" y="198" width="43" height="49"/>
+	<SubTexture name="down BF sonic0006" x="360" y="198" width="43" height="49"/>
+	<SubTexture name="down BF sonic0007" x="403" y="198" width="43" height="49"/>
+	<SubTexture name="down BF sonic0008" x="446" y="198" width="43" height="49"/>
+	<SubTexture name="down BF sonic0009" x="0" y="208" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0000" x="43" y="208" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0001" x="86" y="210" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0002" x="129" y="210" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0003" x="172" y="210" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0004" x="215" y="210" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0005" x="258" y="247" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0006" x="301" y="247" width="43" height="49"/>
+	<SubTexture name="down miss BF sonic0007" x="344" y="247" width="43" height="49"/>
+	<SubTexture name="idle bf0000" x="387" y="247" width="45" height="46"/>
+	<SubTexture name="idle bf0001" x="432" y="247" width="45" height="46"/>
+	<SubTexture name="idle bf0002" x="0" y="257" width="45" height="46"/>
+	<SubTexture name="idle bf0003" x="45" y="259" width="45" height="46"/>
+	<SubTexture name="idle bf0004" x="90" y="259" width="45" height="46"/>
+	<SubTexture name="idle bf0005" x="135" y="259" width="45" height="46"/>
+	<SubTexture name="idle bf0006" x="180" y="259" width="45" height="46"/>
+	<SubTexture name="idle bf0007" x="387" y="293" width="45" height="46"/>
+	<SubTexture name="idle bf0008" x="432" y="293" width="45" height="46"/>
+	<SubTexture name="idle bf0009" x="225" y="296" width="45" height="46"/>
+	<SubTexture name="left BF sonic0000" x="322" y="57" width="51" height="47"/>
+	<SubTexture name="left BF sonic0001" x="373" y="57" width="51" height="47"/>
+	<SubTexture name="left BF sonic0002" x="424" y="57" width="51" height="47"/>
+	<SubTexture name="left BF sonic0003" x="322" y="104" width="51" height="47"/>
+	<SubTexture name="left BF sonic0004" x="373" y="104" width="51" height="47"/>
+	<SubTexture name="left BF sonic0005" x="424" y="104" width="51" height="47"/>
+	<SubTexture name="left BF sonic0006" x="0" y="114" width="51" height="47"/>
+	<SubTexture name="left BF sonic0007" x="51" y="114" width="51" height="47"/>
+	<SubTexture name="left BF sonic0008" x="102" y="114" width="51" height="47"/>
+	<SubTexture name="left BF sonic0009" x="153" y="114" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0000" x="204" y="114" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0001" x="255" y="114" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0002" x="306" y="151" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0003" x="357" y="151" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0004" x="408" y="151" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0005" x="459" y="151" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0006" x="0" y="161" width="51" height="47"/>
+	<SubTexture name="left miss  BF sonic0007" x="51" y="161" width="51" height="47"/>
+	<SubTexture name="right BF sonic0000" x="270" y="296" width="42" height="49"/>
+	<SubTexture name="right BF sonic0001" x="312" y="296" width="42" height="49"/>
+	<SubTexture name="right BF sonic0002" x="0" y="303" width="42" height="49"/>
+	<SubTexture name="right BF sonic0003" x="42" y="305" width="42" height="49"/>
+	<SubTexture name="right BF sonic0004" x="84" y="305" width="42" height="49"/>
+	<SubTexture name="right BF sonic0005" x="126" y="305" width="42" height="49"/>
+	<SubTexture name="right BF sonic0006" x="168" y="305" width="42" height="49"/>
+	<SubTexture name="right BF sonic0007" x="354" y="339" width="42" height="49"/>
+	<SubTexture name="right BF sonic0008" x="396" y="339" width="42" height="49"/>
+	<SubTexture name="right BF sonic0009" x="438" y="339" width="42" height="49"/>
+	<SubTexture name="right miss BF sonic0000" x="475" y="57" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0001" x="475" y="98" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0002" x="477" y="247" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0003" x="477" y="288" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0004" x="354" y="296" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0005" x="480" y="329" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0006" x="210" y="342" width="30" height="41"/>
+	<SubTexture name="right miss BF sonic0007" x="240" y="342" width="30" height="41"/>
+	<SubTexture name="up BF sonic0000" x="0" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0001" x="46" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0002" x="92" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0003" x="138" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0004" x="184" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0005" x="230" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0006" x="276" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0007" x="322" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0008" x="368" y="0" width="46" height="57"/>
+	<SubTexture name="up BF sonic0009" x="414" y="0" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0000" x="460" y="0" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0001" x="0" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0002" x="46" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0003" x="92" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0004" x="138" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0005" x="184" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0006" x="230" y="57" width="46" height="57"/>
+	<SubTexture name="up miss BF sonic0007" x="276" y="57" width="46" height="57"/>
+</TextureAtlas>

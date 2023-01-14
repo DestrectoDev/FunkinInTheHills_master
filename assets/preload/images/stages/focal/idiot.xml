@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idiot.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idiot0000" x="0" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0001" x="0" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0002" x="0" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0003" x="0" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0004" x="599" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0005" x="599" y="0" width="599" height="525"/>
+	<SubTexture name="idiot0006" x="599" y="0" width="599" height="525"/>
+</TextureAtlas>

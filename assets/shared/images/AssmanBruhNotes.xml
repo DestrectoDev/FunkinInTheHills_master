@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AssmanBruhNotes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowDOWN instancia 10000" x="0" y="0" width="182" height="168"/>
+	<SubTexture name="arrowLEFT instancia 10000" x="182" y="0" width="167" height="181"/>
+	<SubTexture name="arrowRIGHT instancia 10000" x="349" y="0" width="167" height="182"/>
+	<SubTexture name="arrowUP instancia 10000" x="516" y="0" width="182" height="168"/>
+	<SubTexture name="blue hold end instancia 10000" x="698" y="0" width="55" height="67"/>
+	<SubTexture name="blue hold piece instancia 10000" x="753" y="0" width="51" height="44"/>
+	<SubTexture name="blue instancia 10000" x="804" y="0" width="169" height="162"/>
+	<SubTexture name="down confirm instancia 10000" x="973" y="0" width="229" height="274" frameX="-9" frameY="0" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down confirm instancia 10001" x="1202" y="0" width="247" height="242" frameX="0" frameY="-17" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down confirm instancia 10002" x="1449" y="0" width="232" height="226" frameX="-4" frameY="-29" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down confirm instancia 10003" x="1449" y="0" width="232" height="226" frameX="-4" frameY="-29" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down confirm instancia 10004" x="1449" y="0" width="232" height="226" frameX="-4" frameY="-29" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down confirm instancia 10005" x="1449" y="0" width="232" height="226" frameX="-4" frameY="-29" frameWidth="247" frameHeight="274"/>
+	<SubTexture name="down press instancia 10000" x="1681" y="0" width="217" height="201" frameX="-7" frameY="-5" frameWidth="230" frameHeight="212"/>
+	<SubTexture name="down press instancia 10001" x="0" y="274" width="217" height="210" frameX="-7" frameY="-1" frameWidth="230" frameHeight="212"/>
+	<SubTexture name="down press instancia 10002" x="217" y="274" width="230" height="212"/>
+	<SubTexture name="down press instancia 10003" x="217" y="274" width="230" height="212"/>
+	<SubTexture name="green hold end instancia 10000" x="447" y="274" width="55" height="67"/>
+	<SubTexture name="green hold piece instancia 10000" x="502" y="274" width="51" height="44"/>
+	<SubTexture name="green instancia 10000" x="553" y="274" width="271" height="255"/>
+	<SubTexture name="left confirm instancia 10000" x="824" y="274" width="246" height="282"/>
+	<SubTexture name="left confirm instancia 10001" x="1070" y="274" width="236" height="254" frameX="-5" frameY="-14" frameWidth="246" frameHeight="282"/>
+	<SubTexture name="left confirm instancia 10002" x="1306" y="274" width="245" height="262" frameX="-1" frameY="-10" frameWidth="246" frameHeight="282"/>
+	<SubTexture name="left confirm instancia 10003" x="1306" y="274" width="245" height="262" frameX="-1" frameY="-10" frameWidth="246" frameHeight="282"/>
+	<SubTexture name="left confirm instancia 10004" x="1306" y="274" width="245" height="262" frameX="-1" frameY="-10" frameWidth="246" frameHeight="282"/>
+	<SubTexture name="left confirm instancia 10005" x="1306" y="274" width="245" height="262" frameX="-1" frameY="-10" frameWidth="246" frameHeight="282"/>
+	<SubTexture name="left press instancia 10000" x="1551" y="274" width="202" height="217" frameX="-5" frameY="-6" frameWidth="212" frameHeight="230"/>
+	<SubTexture name="left press instancia 10001" x="1753" y="274" width="210" height="217" frameX="-1" frameY="-6" frameWidth="212" frameHeight="230"/>
+	<SubTexture name="left press instancia 10002" x="0" y="556" width="212" height="230"/>
+	<SubTexture name="left press instancia 10003" x="0" y="556" width="212" height="230"/>
+	<SubTexture name="pruple end hold instancia 10000" x="212" y="556" width="55" height="67"/>
+	<SubTexture name="purple hold piece instancia 10000" x="267" y="556" width="51" height="44"/>
+	<SubTexture name="purple instancia 10000" x="318" y="556" width="174" height="191"/>
+	<SubTexture name="red hold end instancia 10000" x="492" y="556" width="55" height="67"/>
+	<SubTexture name="red hold piece instancia 10000" x="547" y="556" width="51" height="44"/>
+	<SubTexture name="red instancia 10000" x="598" y="556" width="191" height="205"/>
+	<SubTexture name="right confirm instancia 10000" x="789" y="556" width="243" height="304" frameX="-8" frameY="0" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right confirm instancia 10001" x="1032" y="556" width="256" height="273" frameX="-3" frameY="-15" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right confirm instancia 10002" x="1288" y="556" width="262" height="278" frameX="0" frameY="-12" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right confirm instancia 10003" x="1288" y="556" width="262" height="278" frameX="0" frameY="-12" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right confirm instancia 10004" x="1288" y="556" width="262" height="278" frameX="0" frameY="-12" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right confirm instancia 10005" x="1288" y="556" width="262" height="278" frameX="0" frameY="-12" frameWidth="262" frameHeight="304"/>
+	<SubTexture name="right press instancia 10000" x="1550" y="556" width="201" height="217" frameX="-5" frameY="-6" frameWidth="212" frameHeight="230"/>
+	<SubTexture name="right press instancia 10001" x="1751" y="556" width="210" height="217" frameX="-1" frameY="-6" frameWidth="212" frameHeight="230"/>
+	<SubTexture name="right press instancia 10002" x="0" y="860" width="212" height="230"/>
+	<SubTexture name="right press instancia 10003" x="0" y="860" width="212" height="230"/>
+	<SubTexture name="up confirm instancia 10000" x="212" y="860" width="334" height="360" frameX="-7" frameY="0" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up confirm instancia 10001" x="546" y="860" width="348" height="331" frameX="0" frameY="-17" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up confirm instancia 10002" x="894" y="860" width="328" height="312" frameX="-10" frameY="-27" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up confirm instancia 10003" x="894" y="860" width="328" height="312" frameX="-10" frameY="-27" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up confirm instancia 10004" x="894" y="860" width="328" height="312" frameX="-10" frameY="-27" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up confirm instancia 10005" x="894" y="860" width="328" height="312" frameX="-10" frameY="-27" frameWidth="348" frameHeight="360"/>
+	<SubTexture name="up press instancia 10000" x="1222" y="860" width="217" height="201" frameX="-6" frameY="-5" frameWidth="230" frameHeight="212"/>
+	<SubTexture name="up press instancia 10001" x="1439" y="860" width="217" height="210" frameX="-6" frameY="-1" frameWidth="230" frameHeight="212"/>
+	<SubTexture name="up press instancia 10002" x="1656" y="860" width="230" height="212"/>
+	<SubTexture name="up press instancia 10003" x="1656" y="860" width="230" height="212"/>
+</TextureAtlas>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf sonic.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down BF sonic0000" x="468" y="51" width="43" height="49"/>
+	<SubTexture name="down BF sonic0001" x="97" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0002" x="140" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0003" x="183" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0004" x="226" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0005" x="269" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0006" x="312" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0007" x="355" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0008" x="398" y="155" width="43" height="49"/>
+	<SubTexture name="down BF sonic0009" x="441" y="155" width="43" height="49"/>
+	<SubTexture name="idle BF sonic0000" x="0" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0001" x="54" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0002" x="108" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0003" x="162" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0004" x="216" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0005" x="270" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0006" x="324" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0007" x="378" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0008" x="432" y="0" width="54" height="51"/>
+	<SubTexture name="idle BF sonic0009" x="0" y="51" width="54" height="51"/>
+	<SubTexture name="left BF sonic0000" x="46" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0001" x="97" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0002" x="148" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0003" x="199" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0004" x="250" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0005" x="301" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0006" x="352" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0007" x="403" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0008" x="454" y="108" width="51" height="47"/>
+	<SubTexture name="left BF sonic0009" x="46" y="155" width="51" height="47"/>
+	<SubTexture name="right BF sonic0000" x="0" y="159" width="42" height="49"/>
+	<SubTexture name="right BF sonic0001" x="42" y="202" width="42" height="49"/>
+	<SubTexture name="right BF sonic0002" x="84" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0003" x="126" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0004" x="168" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0005" x="210" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0006" x="252" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0007" x="294" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0008" x="336" y="204" width="42" height="49"/>
+	<SubTexture name="right BF sonic0009" x="378" y="204" width="42" height="49"/>
+	<SubTexture name="up BF sonic0000" x="54" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0001" x="100" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0002" x="146" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0003" x="192" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0004" x="238" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0005" x="284" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0006" x="330" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0007" x="376" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0008" x="422" y="51" width="46" height="57"/>
+	<SubTexture name="up BF sonic0009" x="0" y="102" width="46" height="57"/>
+</TextureAtlas>

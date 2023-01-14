@@ -1,0 +1,18 @@
+{
+  "item": {
+    "directory":"bf-head",
+    "name": "head",
+
+    "animName": "bf head instancia",
+
+    "desc": "se me hace muy extraño que se parezca tanto a ti",
+    "itemPrice": 280,
+    "songUnlocked": null,
+    "skinUnlocked": "bf",
+
+    "scale": 1.0,
+
+    "yRow": 2,
+    "xRow":4
+  }
+}

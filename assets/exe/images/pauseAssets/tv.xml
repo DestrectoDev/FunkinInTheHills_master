@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tvxd0000" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0001" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0002" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0003" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0004" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0005" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0006" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0007" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0008" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0009" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0010" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0011" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0012" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0013" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0014" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0015" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0016" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0017" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0018" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0019" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0020" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0021" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0022" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0023" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0024" x="0" y="292" width="398" height="192"/>
+	<SubTexture name="tvxd0025" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0026" x="0" y="292" width="398" height="192"/>
+	<SubTexture name="tvxd0027" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0028" x="0" y="0" width="398" height="192"/>
+	<SubTexture name="tvxd0029" x="0" y="0" width="398" height="192"/>
+</TextureAtlas>

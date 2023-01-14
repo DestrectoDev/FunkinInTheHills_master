@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="item.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camera instancia 10000" x="0" y="0" width="160" height="118" frameX="-3" frameY="-1" frameWidth="166" frameHeight="119"/>
+	<SubTexture name="camera instancia 10001" x="0" y="0" width="160" height="118" frameX="-3" frameY="-1" frameWidth="166" frameHeight="119"/>
+	<SubTexture name="camera instancia 10002" x="160" y="0" width="164" height="118" frameX="-1" frameY="0" frameWidth="166" frameHeight="119"/>
+	<SubTexture name="camera instancia 10003" x="160" y="0" width="164" height="118" frameX="-1" frameY="0" frameWidth="166" frameHeight="119"/>
+	<SubTexture name="camera instancia 10004" x="324" y="0" width="166" height="117" frameX="0" frameY="0" frameWidth="166" frameHeight="119"/>
+	<SubTexture name="camera instancia 10005" x="324" y="0" width="166" height="117" frameX="0" frameY="0" frameWidth="166" frameHeight="119"/>
+</TextureAtlas>

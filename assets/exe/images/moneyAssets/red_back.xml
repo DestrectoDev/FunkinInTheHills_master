@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red_back.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pene instancia 10000" x="0" y="0" width="1683" height="1309" frameX="0" frameY="0" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10001" x="1683" y="0" width="1683" height="1258" frameX="0" frameY="-51" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10002" x="0" y="1309" width="1683" height="1185" frameX="0" frameY="-124" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10003" x="1683" y="1309" width="1683" height="1103" frameX="0" frameY="-206" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10004" x="0" y="2494" width="1683" height="977" frameX="0" frameY="-333" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10005" x="1683" y="2494" width="1683" height="908" frameX="0" frameY="-402" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10006" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10007" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10008" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10009" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10010" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10011" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10012" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10013" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+	<SubTexture name="pene instancia 10014" x="3366" y="2494" width="0" height="0" frameX="-208" frameY="-57" frameWidth="1683" frameHeight="1310"/>
+</TextureAtlas>

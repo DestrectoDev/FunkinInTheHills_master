@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Dark-rain",
+			"risk",
+			[
+				106,
+				40,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "HARD",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "RISK CONFRONT",
+	"weekName": "Risk-Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

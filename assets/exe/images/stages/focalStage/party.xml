@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="party.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="party one0000" x="0" y="0" width="415" height="869"/>
+	<SubTexture name="party one0001" x="0" y="0" width="415" height="869"/>
+	<SubTexture name="party one0002" x="415" y="0" width="415" height="869"/>
+	<SubTexture name="party one0003" x="415" y="0" width="415" height="869"/>
+</TextureAtlas>

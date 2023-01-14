@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="afro.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tipica10000" x="0" y="0" width="284" height="288" frameX="-5" frameY="-28" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10001" x="0" y="0" width="284" height="288" frameX="-5" frameY="-28" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10002" x="0" y="0" width="284" height="288" frameX="-5" frameY="-28" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10003" x="284" y="0" width="293" height="277" frameX="0" frameY="-39" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10004" x="284" y="0" width="293" height="277" frameX="0" frameY="-39" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10005" x="577" y="0" width="265" height="287" frameX="-14" frameY="-30" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10006" x="577" y="0" width="265" height="287" frameX="-14" frameY="-30" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10007" x="0" y="288" width="253" height="316" frameX="-20" frameY="0" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10008" x="0" y="288" width="253" height="316" frameX="-20" frameY="0" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10009" x="0" y="288" width="253" height="316" frameX="-20" frameY="0" frameWidth="293" frameHeight="317"/>
+	<SubTexture name="tipica10010" x="0" y="288" width="253" height="316" frameX="-20" frameY="0" frameWidth="293" frameHeight="317"/>
+</TextureAtlas>

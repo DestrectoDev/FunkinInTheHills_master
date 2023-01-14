@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="restart.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="restart0000" x="0" y="0" width="353" height="159"/>
+	<SubTexture name="restart0001" x="0" y="0" width="353" height="159"/>
+	<SubTexture name="restart0002" x="0" y="0" width="353" height="159"/>
+	<SubTexture name="restart0003" x="453" y="0" width="353" height="159"/>
+	<SubTexture name="restart0004" x="453" y="0" width="353" height="159"/>
+	<SubTexture name="restart0005" x="453" y="0" width="353" height="159"/>
+	<SubTexture name="restart0006" x="0" y="259" width="353" height="159"/>
+	<SubTexture name="restart0007" x="0" y="259" width="353" height="159"/>
+	<SubTexture name="restart0008" x="0" y="259" width="353" height="159"/>
+	<SubTexture name="restart select0000" x="453" y="259" width="353" height="159"/>
+	<SubTexture name="restart select0001" x="453" y="259" width="353" height="159"/>
+	<SubTexture name="restart select0002" x="0" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0003" x="0" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0004" x="0" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0005" x="453" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0006" x="453" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0007" x="0" y="777" width="353" height="159"/>
+	<SubTexture name="restart select0008" x="0" y="777" width="353" height="159"/>
+	<SubTexture name="restart select0009" x="0" y="777" width="353" height="159"/>
+	<SubTexture name="restart select0010" x="453" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0011" x="453" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0012" x="0" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0013" x="0" y="518" width="353" height="159"/>
+	<SubTexture name="restart select0014" x="0" y="518" width="353" height="159"/>
+</TextureAtlas>

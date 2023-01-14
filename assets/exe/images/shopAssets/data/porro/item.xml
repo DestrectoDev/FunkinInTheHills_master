@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="item.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="porro instancia 10000" x="0" y="0" width="119" height="112"/>
+	<SubTexture name="porro instancia 10001" x="0" y="0" width="119" height="112"/>
+	<SubTexture name="porro instancia 10002" x="119" y="0" width="118" height="112" frameX="0" frameY="0" frameWidth="119" frameHeight="112"/>
+	<SubTexture name="porro instancia 10003" x="119" y="0" width="118" height="112" frameX="0" frameY="0" frameWidth="119" frameHeight="112"/>
+	<SubTexture name="porro instancia 10004" x="0" y="112" width="115" height="109" frameX="0" frameY="-3" frameWidth="119" frameHeight="112"/>
+	<SubTexture name="porro instancia 10005" x="0" y="112" width="115" height="109" frameX="0" frameY="-3" frameWidth="119" frameHeight="112"/>
+</TextureAtlas>

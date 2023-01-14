@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ringBag.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rings bag's instancia 10000" x="0" y="0" width="119" height="595" frameX="-9" frameY="0" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10001" x="119" y="0" width="118" height="554" frameX="-13" frameY="-66" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10002" x="237" y="0" width="118" height="467" frameX="-13" frameY="-153" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10003" x="355" y="0" width="102" height="447" frameX="-21" frameY="-199" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10004" x="457" y="0" width="125" height="382" frameX="-9" frameY="-279" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10005" x="582" y="0" width="125" height="299" frameX="-9" frameY="-362" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10006" x="707" y="0" width="134" height="260" frameX="-4" frameY="-403" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10007" x="841" y="0" width="142" height="226" frameX="0" frameY="-436" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10008" x="0" y="595" width="142" height="205" frameX="0" frameY="-457" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10009" x="142" y="595" width="134" height="196" frameX="-4" frameY="-467" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10010" x="276" y="595" width="125" height="184" frameX="-9" frameY="-476" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10011" x="401" y="595" width="125" height="170" frameX="-9" frameY="-490" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10012" x="526" y="595" width="125" height="154" frameX="-9" frameY="-506" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10013" x="651" y="595" width="125" height="141" frameX="-9" frameY="-519" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10014" x="776" y="595" width="125" height="141" frameX="-9" frameY="-519" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10015" x="0" y="800" width="125" height="141" frameX="-9" frameY="-519" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10016" x="125" y="800" width="125" height="141" frameX="-9" frameY="-519" frameWidth="142" frameHeight="663"/>
+	<SubTexture name="rings bag's instancia 10017" x="250" y="800" width="125" height="141" frameX="-9" frameY="-519" frameWidth="142" frameHeight="663"/>
+</TextureAtlas>

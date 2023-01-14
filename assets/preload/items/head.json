@@ -1,0 +1,15 @@
+{
+    "directory": "stoneHead",
+    "name":"head",
+
+    "animName":"bf head",
+    "desc":"this item make you cry",
+    "itemPrice": 940,
+
+    "songUnlocked":"dark-rain",
+    "skinUnlocked":"bf-rain",
+
+    "scale":1,
+    "yRow":0,
+    "xRow":0
+}

@@ -1,0 +1,15 @@
+{
+    "directory": "tailsItem",
+    "name":"tail",
+
+    "animName":"tails",
+    "desc":"this item make you unlock the tails skin",
+    "itemPrice": 1240,
+
+    "songUnlocked":"dark-rain",
+    "skinUnlocked":"tails-player",
+
+    "scale":1,
+    "yRow":0,
+    "xRow":0
+}

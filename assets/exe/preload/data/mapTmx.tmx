@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="80" height="45" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="10">
+ <tileset firstgid="1" source="mapTmxAssets.tsx"/>
+ <objectgroup id="6" name="grass">
+  <object id="2" x="400" y="528" width="93" height="92"/>
+ </objectgroup>
+ <objectgroup id="7" name="mont">
+  <object id="5" gid="3" x="-32" y="7792" width="8192" height="8192"/>
+ </objectgroup>
+ <objectgroup id="8" name="ring">
+  <object id="6" gid="5" x="478.909" y="815.03" width="1024" height="1024"/>
+ </objectgroup>
+ <objectgroup id="10" name="coll">
+  <object id="7" gid="4" x="153.939" y="705.455" width="1280" height="720"/>
+ </objectgroup>
+ <objectgroup id="9" name="cartel">
+  <object id="8" gid="1" x="-21.6364" y="1148.42" width="2048" height="1024"/>
+ </objectgroup>
+</map>

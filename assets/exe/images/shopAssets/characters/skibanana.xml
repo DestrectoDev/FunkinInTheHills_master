@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skibanana.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 10000" x="0" y="0" width="258" height="241" frameX="0" frameY="0" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10001" x="0" y="0" width="258" height="241" frameX="0" frameY="0" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10002" x="358" y="0" width="259" height="240" frameX="0" frameY="-1" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10003" x="358" y="0" width="259" height="240" frameX="0" frameY="-1" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10004" x="717" y="0" width="260" height="241" frameX="-1" frameY="0" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10005" x="717" y="0" width="260" height="241" frameX="-1" frameY="0" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10006" x="0" y="341" width="261" height="241" frameX="-1" frameY="0" frameWidth="262" frameHeight="241"/>
+	<SubTexture name="Símbolo 10007" x="0" y="341" width="261" height="241" frameX="-1" frameY="0" frameWidth="262" frameHeight="241"/>
+</TextureAtlas>

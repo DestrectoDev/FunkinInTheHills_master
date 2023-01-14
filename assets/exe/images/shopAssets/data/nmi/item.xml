@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="item.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="catucho instancia 10000" x="0" y="0" width="181" height="99"/>
+	<SubTexture name="catucho instancia 10001" x="0" y="0" width="181" height="99"/>
+	<SubTexture name="catucho instancia 10002" x="181" y="0" width="181" height="98" frameX="0" frameY="0" frameWidth="181" frameHeight="99"/>
+	<SubTexture name="catucho instancia 10003" x="181" y="0" width="181" height="98" frameX="0" frameY="0" frameWidth="181" frameHeight="99"/>
+	<SubTexture name="catucho instancia 10004" x="0" y="99" width="181" height="98" frameX="0" frameY="0" frameWidth="181" frameHeight="99"/>
+	<SubTexture name="catucho instancia 10005" x="181" y="99" width="181" height="98" frameX="0" frameY="0" frameWidth="181" frameHeight="99"/>
+</TextureAtlas>

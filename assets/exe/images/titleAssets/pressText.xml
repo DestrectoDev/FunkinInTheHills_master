@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pressText.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loop0000" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0001" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0002" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0003" x="1052" y="0" width="1052" height="79" frameX="0" frameY="-7" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0004" x="2104" y="0" width="1052" height="91" frameX="0" frameY="-4" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0005" x="0" y="91" width="1052" height="79" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0006" x="1052" y="91" width="1052" height="75" frameX="0" frameY="-14" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0007" x="2104" y="91" width="1052" height="93" frameX="0" frameY="0" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0008" x="0" y="184" width="1052" height="81" frameX="0" frameY="-2" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0009" x="1052" y="184" width="1052" height="68" frameX="0" frameY="-6" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0010" x="0" y="0" width="1052" height="67" frameX="0" frameY="-8" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0011" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0012" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="loop0013" x="0" y="0" width="1052" height="67" frameX="0" frameY="-13" frameWidth="1052" frameHeight="95"/>
+	<SubTexture name="pressed0000" x="2104" y="184" width="1551" height="516" frameX="-185" frameY="0" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0001" x="0" y="700" width="1922" height="406" frameX="0" frameY="-55" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0002" x="1922" y="700" width="1890" height="446" frameX="-16" frameY="-35" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0003" x="0" y="1146" width="1820" height="126" frameX="-51" frameY="-195" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0004" x="1820" y="1146" width="1551" height="126" frameX="-185" frameY="-195" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0005" x="0" y="1272" width="780" height="92" frameX="-569" frameY="-211" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0006" x="780" y="1272" width="718" height="92" frameX="-600" frameY="-211" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0007" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0008" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0009" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0010" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0011" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0012" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0013" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+	<SubTexture name="pressed0014" x="1498" y="1272" width="702" height="95" frameX="-608" frameY="-209" frameWidth="1922" frameHeight="516"/>
+</TextureAtlas>

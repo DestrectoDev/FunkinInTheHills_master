@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="treeMech.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="entrance instancia 10000" x="0" y="0" width="205" height="576" frameX="-6" frameY="0" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10001" x="205" y="0" width="216" height="528" frameX="0" frameY="-24" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10002" x="205" y="0" width="216" height="528" frameX="0" frameY="-24" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10003" x="421" y="0" width="216" height="480" frameX="0" frameY="-48" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10004" x="637" y="0" width="216" height="452" frameX="0" frameY="-62" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10005" x="0" y="576" width="216" height="440" frameX="0" frameY="-68" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10006" x="0" y="576" width="216" height="440" frameX="0" frameY="-68" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10007" x="0" y="576" width="216" height="440" frameX="0" frameY="-68" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10008" x="0" y="576" width="216" height="440" frameX="0" frameY="-68" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="entrance instancia 10009" x="0" y="576" width="216" height="440" frameX="0" frameY="-68" frameWidth="216" frameHeight="576"/>
+	<SubTexture name="pene instancia 10000" x="216" y="576" width="216" height="440"/>
+</TextureAtlas>

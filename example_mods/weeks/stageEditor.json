@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["stageeditor", "", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": null,
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "StageEditor",
+	"difficulties": "Normal",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

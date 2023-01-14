@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tailsCharacterSprite.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tails cute0000" x="0" y="0" width="37" height="51"/>
+	<SubTexture name="tails cute0001" x="0" y="51" width="37" height="51"/>
+	<SubTexture name="tails cute0002" x="0" y="102" width="37" height="51"/>
+	<SubTexture name="tails cute0003" x="0" y="153" width="37" height="51"/>
+	<SubTexture name="tails cute0004" x="0" y="204" width="37" height="51"/>
+	<SubTexture name="tails cute0005" x="37" y="0" width="37" height="51"/>
+	<SubTexture name="tails cute0006" x="37" y="51" width="37" height="51"/>
+	<SubTexture name="tails cute0007" x="37" y="102" width="37" height="51"/>
+	<SubTexture name="tails cute0008" x="37" y="153" width="37" height="51"/>
+	<SubTexture name="tails cute0009" x="37" y="204" width="37" height="51"/>
+</TextureAtlas>

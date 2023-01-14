@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lava.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lava0000" x="0" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0001" x="0" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0002" x="0" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0003" x="3304" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0004" x="3304" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0005" x="3304" y="0" width="3304" height="1664"/>
+	<SubTexture name="lava0006" x="0" y="1664" width="3304" height="1664"/>
+	<SubTexture name="lava0007" x="0" y="1664" width="3304" height="1664"/>
+	<SubTexture name="lava0008" x="0" y="1664" width="3304" height="1664"/>
+</TextureAtlas>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burnig-sonic.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down burnigsonic0000" x="0" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0001" x="0" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0002" x="0" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0003" x="46" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0004" x="46" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0005" x="46" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0006" x="92" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0007" x="92" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0008" x="92" y="0" width="46" height="48" frameX="-53" frameY="-24" frameWidth="123" frameHeight="72"/>
+	<SubTexture name="down burnigsonic0009" x="138" y="0" width="123" height="72"/>
+	<SubTexture name="down burnigsonic0010" x="138" y="0" width="123" height="72"/>
+	<SubTexture name="down burnigsonic0011" x="138" y="0" width="123" height="72"/>
+	<SubTexture name="idle burnigsonic0000" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0001" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0002" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0003" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0004" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0005" x="261" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0006" x="307" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0007" x="307" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0008" x="307" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0009" x="353" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0010" x="353" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0011" x="353" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0012" x="399" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0013" x="399" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0014" x="399" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0015" x="445" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0016" x="445" y="0" width="46" height="48"/>
+	<SubTexture name="idle burnigsonic0017" x="445" y="0" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0000" x="0" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0001" x="0" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0002" x="0" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0003" x="46" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0004" x="46" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0005" x="46" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0006" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0007" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0008" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0009" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0010" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="left burnigsonic0011" x="92" y="72" width="46" height="48"/>
+	<SubTexture name="right burnigsonic0000" x="138" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0001" x="138" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0002" x="138" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0003" x="184" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0004" x="184" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0005" x="184" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0006" x="230" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0007" x="230" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0008" x="230" y="72" width="46" height="48" frameX="0" frameY="0" frameWidth="58" frameHeight="100"/>
+	<SubTexture name="right burnigsonic0009" x="276" y="72" width="58" height="100"/>
+	<SubTexture name="right burnigsonic0010" x="276" y="72" width="58" height="100"/>
+	<SubTexture name="right burnigsonic0011" x="276" y="72" width="58" height="100"/>
+	<SubTexture name="up burnigsonic0000" x="334" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0001" x="334" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0002" x="334" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0003" x="380" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0004" x="380" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0005" x="380" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0006" x="426" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0007" x="426" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0008" x="426" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0009" x="426" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0010" x="426" y="72" width="46" height="48"/>
+	<SubTexture name="up burnigsonic0011" x="426" y="72" width="46" height="48"/>
+</TextureAtlas>
